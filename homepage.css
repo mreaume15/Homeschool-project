@@ -1,0 +1,68 @@
+.title {
+    text-align: center;
+    background-color: rgb(207, 177, 6);
+    border: solid 5px rgb(155, 145, 132);
+    border-radius: 5px 5px 5px 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+div {
+    border: solid rgb(155, 145, 132) 5px;
+    background-color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 10px 5px 5px 10px;
+
+
+
+
+}
+
+.signup {
+    float: top;
+
+    padding: 10px 10px 10px 10px;
+    background-color: lightskyblue
+}
+
+.Login {
+    float: top;
+    border: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    background-color: lightblue
+}
+
+body {
+    background-color: rgb(243, 204, 200)
+}
+
+footer {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+nav {
+    display: flexbox;
+
+    flex-direction: row;
+
+    letter-spacing: 2px
+}
+
+img {
+    position: relative;
+    left: 5px;
+    border: solid black 5px;
+    border-radius: 10px 5px 10px 5px;
+    display: block;
+    margin: auto;
+
+
+
+
+
+
+
+
+
+
+
+}
